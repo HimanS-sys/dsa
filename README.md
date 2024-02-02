@@ -1,2 +1,2 @@
-# leetcode
-Topic wise solution to leetcode problems
+# DSA
+Topic wise Data Structure and Algorithm implimentation.
